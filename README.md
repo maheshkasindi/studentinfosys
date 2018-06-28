@@ -1,3 +1,5 @@
+STUDENT INFORMATION SYSTEM PROJECT IN PHP AND MYSQL
+
 Start working with this project :
 
 Prerequisists : XAMPP
